@@ -7,14 +7,13 @@ import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.Button;
 import android.widget.Toast;
 
 import static android.widget.Toast.LENGTH_LONG;
 
 
 public class MyActivity extends Activity {
-    Button gpsButton;
+   // Button gpsButton;
 
     // GPSTracker gps;
     @Override
